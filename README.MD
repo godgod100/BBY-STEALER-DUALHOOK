@@ -12,5 +12,8 @@
 1- Python Download
 2- setup.bat run
 3- Edit brundonater.py
-4- builder.bat run
+4- Sender.bat run
 
+# 🚀 Exe Build
+
+build.bat run
