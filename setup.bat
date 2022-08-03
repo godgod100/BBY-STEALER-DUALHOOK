@@ -7,3 +7,4 @@ color a
 pip install dhooks
 pip install discord_webhook
 pip install pyinstaller
+pause
